@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BricksBreaker_Lab02",
+			"Path": "D:\\sis457\\Laboratorios\\BricksBreaker_Lab02\\Source\\BricksBreaker_Lab02.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BricksBreaker_Lab02Editor",
+			"Path": "D:\\sis457\\Laboratorios\\BricksBreaker_Lab02\\Source\\BricksBreaker_Lab02Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

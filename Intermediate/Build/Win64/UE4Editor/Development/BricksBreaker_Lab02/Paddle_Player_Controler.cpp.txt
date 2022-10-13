@@ -1,0 +1,16 @@
+D:\sis457\Laboratorios\BricksBreaker_Lab02\Intermediate\Build\Win64\UE4Editor\Development\BricksBreaker_Lab02\Definitions.BricksBreaker_Lab02.h
+D:\sis457\Laboratorios\BricksBreaker_Lab02\Source\BricksBreaker_Lab02\Paddle_Player_Controler.h
+D:\sis457\Laboratorios\BricksBreaker_Lab02\Intermediate\Build\Win64\UE4Editor\Inc\BricksBreaker_Lab02\Paddle_Player_Controler.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+D:\sis457\Laboratorios\BricksBreaker_Lab02\Source\BricksBreaker_Lab02\Paddle.h
+D:\sis457\Laboratorios\BricksBreaker_Lab02\Intermediate\Build\Win64\UE4Editor\Inc\BricksBreaker_Lab02\Paddle.generated.h

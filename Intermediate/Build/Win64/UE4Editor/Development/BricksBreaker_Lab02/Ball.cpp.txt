@@ -1,0 +1,7 @@
+D:\sis457\Laboratorios\BricksBreaker_Lab02\Intermediate\Build\Win64\UE4Editor\Development\BricksBreaker_Lab02\Definitions.BricksBreaker_Lab02.h
+D:\sis457\Laboratorios\BricksBreaker_Lab02\Source\BricksBreaker_Lab02\Ball.h
+D:\sis457\Laboratorios\BricksBreaker_Lab02\Intermediate\Build\Win64\UE4Editor\Inc\BricksBreaker_Lab02\Ball.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

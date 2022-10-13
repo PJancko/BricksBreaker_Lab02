@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BricksBreaker_Lab02.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FD489C0F-CBF9-4F36-99ED-AE781812E374}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BricksBreaker_Lab02.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BricksBreaker_Lab02Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7917C19A-3BCF-4A5E-B4A3-B8B7493267B0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BricksBreaker_Lab02">
+      <UniqueIdentifier>{7A7A9DF1-7263-4CCE-89E2-50146376C6A4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BricksBreaker_Lab02\Ball.cpp">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreaker_Lab02\Ball.h">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\BricksBreaker_Lab02\BricksBreaker_Lab02.Build.cs">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BricksBreaker_Lab02\BricksBreaker_Lab02.cpp">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreaker_Lab02\BricksBreaker_Lab02.h">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BricksBreaker_Lab02\BricksBreaker_Lab02GameModeBase.cpp">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreaker_Lab02\BricksBreaker_Lab02GameModeBase.h">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BricksBreaker_Lab02\Paddle.cpp">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreaker_Lab02\Paddle.h">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BricksBreaker_Lab02\Paddle_Player_Controler.cpp">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreaker_Lab02\Paddle_Player_Controler.h">
+      <Filter>Source\BricksBreaker_Lab02</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
